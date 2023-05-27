@@ -8,3 +8,4 @@ urlpatterns = [
     path('rest/v1/calendar/redirect/', CalenderRedirectView, name='google-calendar-redirect'),
 ]
 
+# request.build_absolute_uri(reverse('google-calendar-redirect'))
