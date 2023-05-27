@@ -11,4 +11,5 @@ code
 2. Once got the access_token get list of events in users calendar
 
 ## Result
-![Result](https://github.com/Sreetama2001/Backend_task_Convin/assets/73426684/52077e62-f936-4719-8414-f57154359b92)
+<!-- ![Result]() -->
+<img  alt='result' src="https://github.com/Sreetama2001/Backend_task_Convin/assets/73426684/52077e62-f936-4719-8414-f57154359b92">
